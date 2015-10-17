@@ -1,31 +1,43 @@
-name: Art(ist)
-favicon: null
-layout_spectrum: 0.8
 title: Art(ist)
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose:
+  - name: awareness
+    url: null
+    item: f7eba927-c51e-4d12-86d7-c63063a97780
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.5
+  brandStrength: 0.5
+  rhythmicContrast: 0.5
   brandColors:
     - '#c7c7c7'
     - '#fefefe'
     - '#717171'
     - '#8c8c8c'
     - '#363636'
-  brandStrength: 0.5
   lightness: 0.5
-  saturation: 0.5
-  rhythmicContrast: 0.5
-purpose:
-  - name: awareness
-    item: f7eba927-c51e-4d12-86d7-c63063a97780
-    url: null
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: Art(ist)
+opengraph:
+  image: null
+  type: null
+  appId: null
+layout_spectrum: 0.2957447
