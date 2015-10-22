@@ -4,8 +4,15 @@
         <description><![CDATA[Art(ist) Title]]></description>
         <link>https://thegrid.ai/art-ist/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 22 Oct 2015 15:57:54 GMT</lastBuildDate>
+        <lastBuildDate>Thu, 22 Oct 2015 16:01:15 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/art-ist/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Title 4]]></title>
+            <description><![CDATA[<article><h1>Title 4</h1><p>Description 4</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/926a8c53-2cde-47ca-a45d-7ec694b15eb2.jpg"></article>]]></description>
+            <link>https://thegrid.ai/art-ist/title-4/index.html</link>
+            <guid isPermaLink="false">e32f7689-a10f-4315-8e77-992b0cc245ad</guid>
+            <pubDate>Thu, 22 Oct 2015 16:01:14 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Test 1]]></title>
             <description><![CDATA[<article><h1>Test 1</h1><p>Description</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/04829460-e22a-4a88-b0dc-325d9731c387.jpg"></article>]]></description>
