@@ -1,7 +1,8 @@
 name: Art(ist)
 favicon: null
 layout_spectrum: 1
-title: Art(ist)
+typography_spectrum: 0.5
+title: Art(ist) Title
 collections:
   - index:
       path: /
