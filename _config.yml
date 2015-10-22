@@ -1,6 +1,6 @@
 name: Art(ist)
 favicon: null
-layout_spectrum: 0
+layout_spectrum: 0.5
 typography_spectrum: 0.5
 title: Art(ist) Title
 collections:
@@ -34,7 +34,7 @@ color:
     - '#717171'
     - '#8c8c8c'
     - '#363636'
-  brandStrength: 0.5
+  brandStrength: 0
   lightness: 0.5
   saturation: 0
   rhythmicContrast: 0.5
