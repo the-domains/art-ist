@@ -2,7 +2,7 @@ name: Art(ist)
 favicon: null
 layout_spectrum: 0.50135
 typography_spectrum: 0.48784
-title: Art(ist) Title
+title: Art(ist)
 collections:
   - index:
       path: /
